@@ -1,5 +1,4 @@
-### Hi there i'm Reza 👋
-
+<h1 align= "center"><b>Hi, i'm Reza!</b></h1>
 <!--
 **rezasugiarto/rezasugiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
