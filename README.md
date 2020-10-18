@@ -5,14 +5,14 @@
 
 <!-- Actual text -->
 
-<center> You can find me on on [![LinkedIn][2.2]][2]. </center>
+<center> You can find me on on [![LinkedIn][2]][3]. </center>
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/rezasugiarto/rezasugiarto/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://raw.githubusercontent.com/rezasugiarto/rezasugiarto/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/reza-sugiarto/
+[3]: https://www.linkedin.com/in/reza-sugiarto/
   
 
 <!--
