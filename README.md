@@ -3,8 +3,18 @@
 <h1 align= "center"><img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif" width="300px"></h1>
 
 
+<!-- Actual text -->
+
+<center> You can find me on on [![LinkedIn][3.2]][3]. </center>
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/heinz-martin/
   
-<!-- 🚀 From [Reza Sugiarto](https://github.com/rezasugiarto) -->
+
 <!--
 **rezasugiarto/rezasugiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
