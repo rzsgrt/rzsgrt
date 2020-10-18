@@ -1,18 +1,18 @@
 <h1 align= "center"><b>Hi, i'm Reza! </b></h1>
 
-<h1 align= "center"><img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif" width="300px"></h1>
+<!-- comment <h1 align= "center"><img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif" width="300px"></h1> -->
 
 
 <!-- Actual text -->
 
-<center> You can find me on on [![LinkedIn][3.2]][3]. </center>
+<center> You can find me on on [![LinkedIn][2.2]][2]. </center>
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/rezasugiarto/rezasugiarto/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.linkedin.com/in/reza-sugiarto/
   
 
 <!--
