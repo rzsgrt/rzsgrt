@@ -1,17 +1,10 @@
-<h1 align= "center"><b>Hi, i'm Reza! </b></h1>
+ <h1 align= "center"><b>Hi, i'm Reza! </b></h1>
 
 <!-- comment <h1 align= "center"><img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif" width="300px"></h1> -->
 
-<img src="https://github.com/rezasugiarto/rezasugiarto/raw/main/linkedin-3-16.png" width="10px">
 <!-- Actual text -->
+<h5 align= "center"> Connect to my linkedin <a href="https://www.linkedin.com/in/reza-sugiarto/">here</a></h5>
 
-<center> You can find me on on linkedin.  </center>
-[![LinkedIn][1.2]][1]
-<!-- Icons -->
-
-[1.2]: https://github.com/rezasugiarto/rezasugiarto/raw/main/linkedin-3-16.png
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/reza-sugiarto/
   
 
 <!--
