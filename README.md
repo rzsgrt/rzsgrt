@@ -11,6 +11,7 @@ Currently, I lead Data Science and AI at one of Indonesia’s top cloud-based bu
 - Anomaly Detection
 - NER Modelling
 - Churn Modelling with Counterfactual Machine Learning
+- Text summarization and paraphrasing using LLM
 - Text-to-SQL for Data Analysis
 
 ## Skills
