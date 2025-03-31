@@ -12,7 +12,7 @@ Previously, I worked as a machine learning engineer, gaining valuable experience
 - **Databases**: PostgreSQL
 
 ## Contact Me
-- **Email**: rzsgrt@example.com
+- **Email**: reza16.sugiarto@gmail.com
 - **LinkedIn**: [rzsgrt](https://www.linkedin.com/in/rzsgrt)
 - **Twitter**: [@rzsgrt](https://twitter.com/rzsgrt)
 
