@@ -5,6 +5,14 @@ With my background in physics, I have always been intrigued by the combination o
 
 Previously, I worked as a machine learning engineer, gaining valuable experience in building and deploying machine learning models. In my current role as a data scientist, I design and implement data-driven solutions that help my organization make informed business decisions.
 
+## Projects
+- Credit Scoring Modelling
+- Text-based Intent Classification
+- Anomaly Detection
+- NER Modelling
+- Churn Modelling with Counterfactual Machine Learning
+- Text-to-SQL for Data Analysis
+
 ## Skills
 - **Languages**: Python
 - **Frameworks/Libraries**: Scikit Learn, Pandas, Langchain, FastAPI, etc
