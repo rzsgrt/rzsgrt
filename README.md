@@ -27,6 +27,5 @@ Currently, I lead Data Science and AI at one of Indonesia’s top cloud-based bu
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-````
 
 
