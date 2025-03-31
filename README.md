@@ -1,23 +1,24 @@
- <h1 align= "center"><b>Hi, i'm Reza! </b></h1>
+# Hi there, I'm Reza! 👋
 
-<!-- comment <h1 align= "center"><img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif" width="300px"></h1> -->
+## About Me
+With my background in physics, I have always been intrigued by the combination of science and technology. This interest drove me to pursue a career in data science, where I can apply my analytical skills and problem-solving capabilities to tackle intricate problems and make decisions based on data.
 
-<!-- Actual text -->
-<h5 align= "center"> Connect to my linkedin <a href="https://www.linkedin.com/in/reza-sugiarto/">here</a></h5>
+Previously, I worked as a machine learning engineer, gaining valuable experience in building and deploying machine learning models. In my current role as a data scientist, I design and implement data-driven solutions that help my organization make informed business decisions.
 
-  
+## Skills
+- **Languages**: Python
+- **Frameworks/Libraries**: Scikit Learn, Pandas, Langchain, FastAPI, etc
+- **Tools**: Git, Docker
+- **Databases**: PostgreSQL
 
-<!--
-**rezasugiarto/rezasugiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Me
+- **Email**: rzsgrt@example.com
+- **LinkedIn**: [rzsgrt](https://www.linkedin.com/in/rzsgrt)
+- **Twitter**: [@rzsgrt](https://twitter.com/rzsgrt)
 
-Here are some ideas to get you started:
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+![Profile views](https://gpvc.arturio.dev/rzsgrt)
+---->
+````
