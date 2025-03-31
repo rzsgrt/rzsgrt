@@ -18,8 +18,10 @@ Previously, I worked as a machine learning engineer, gaining valuable experience
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-````
-
 <!---
 ![Profile views](https://gpvc.arturio.dev/rzsgrt)
----->
+-->
+
+````
+
+
